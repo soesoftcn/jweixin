@@ -1,0 +1,14 @@
+{
+  "name": "jweixin",
+  "version": "1.0.0",
+  "description": "weixin jssdk",
+  "homepage": "https://github.com/soesoftcn/jweixin",
+  "repository": "git://https://github.com/soesoftcn/jweixin.git",
+  "main": "index.js",
+  "author": "soepower <956497829@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
